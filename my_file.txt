@@ -1,0 +1,6 @@
+Hello, this is the first line.
+This is the second line with a number: 12345.
+And this is the third line, nice to meet you!
+Appending this fourth line.
+Here is the fifth line with another number: 67890.
+Finally, this is the sixth line, appended successfully!
